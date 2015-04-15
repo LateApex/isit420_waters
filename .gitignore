@@ -1,0 +1,9 @@
+Thumbs.db
+.metadata
+node_modules
+.c9/
+.log
+.idea
+.bashrc
+platforms
+bower_components
